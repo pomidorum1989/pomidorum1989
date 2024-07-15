@@ -2,14 +2,17 @@
 
 <br/>
 
-<a href="https://twitter.com/pomidorum">
-  <img align="left" alt="Valentine Dorum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://facebook.com/pomidorum">
+  <img align="left" alt="Valentine Dorum | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pomidorum/">
   <img align="left" alt="Valentine Dorum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pomidorum/">
   <img align="left" alt="Valentine Dorum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/pomidorum">
+  <img align="left" alt="Valentine Dorum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 <br/>
