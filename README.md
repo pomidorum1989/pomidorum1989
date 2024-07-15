@@ -1,7 +1,6 @@
-### Hello World 👋
+### Welcome to my github page:
 
 <br/>
-
 <a href="https://facebook.com/pomidorum">
   <img align="left" alt="Valentine Dorum | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -17,15 +16,16 @@
 <br/>
 <br/>
 
-Hi, I'm Valentine Dorum 🙌, a Software Developer in Test and test automation enthusiast.
+Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. 
+I’m also keenly interested in DevOps tools such as GitHub Actions, Azure DevOps, and Jenkins.
 
-**Talking about Personal Stuffs:**
+**Summary:**
 
-- 🔭 I’m currently an SDET at General Motors.
-- 🌱 I’m currently learning Spring.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything, I would love to answer.
-- 📫 How to reach me: Any of the Social-Media Platforms
+Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.
+Specializes in creating end-to-end automation scenarios and conducting Rest API testing.
+Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing, and interviewing domains.
+For the past 3 years, served as an automation engineer in the automotive industry, focusing on the development of automation
+frameworks for vehicle infotainment systems. Capable in both team and solo settings, adeptly contributing to shared objectives.
 
 **Languages and Tools:**
 
@@ -36,3 +36,7 @@ Hi, I'm Valentine Dorum 🙌, a Software Developer in Test and test automation e
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"></code>
