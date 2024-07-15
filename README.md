@@ -16,8 +16,7 @@
 <br/>
 <br/>
 
-Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. 
-I’m also keenly interested in DevOps tools such as GitHub Actions, Azure DevOps, and Jenkins.
+Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps, and Jenkins.
 
 **Summary:**
 
@@ -40,3 +39,6 @@ frameworks for vehicle infotainment systems. Capable in both team and solo setti
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"></code>
+
+Feel free to connect with me on any of the social media platforms above!
