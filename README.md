@@ -1,3 +1,5 @@
+![Header](qa-in-devops.png)
+
 ### Welcome to my github page:
 
 <br/>
@@ -40,5 +42,26 @@ frameworks for vehicle infotainment systems. Capable in both team and solo setti
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"></code>
+
+**Basic automation frameworks:**
+
+***Java***
+- [java-playwright](https://github.com/Pomidorum1989/java-playwright)
+- [java-spring-selenium](https://github.com/Pomidorum1989/java-spring-selenium)
+- [java-screenplay-selenium](https://github.com/Pomidorum1989/java-selenium-screenplay)
+- [java-cucumber-selenium](https://github.com/Pomidorum1989/java-selenium-cucumber)
+
+***JavaScript***
+- [js-cypress](https://github.com/Pomidorum1989/js-cypress-qa-playground-test)
+- [js-webdriver-io](https://github.com/Pomidorum1989/js-webdriverio)
+
+***Python***
+- [python-pytest](https://github.com/Pomidorum1989/python-pytest-selenium)
+
+***Interviews***
+- [EPAM](https://github.com/Pomidorum1989/js-epam-task)
+- [GM](https://github.com/Pomidorum1989/java-gm-task)
+- [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
+- [FLOQAST](https://github.com/Pomidorum1989/js-interview-tasks)
 
 Feel free to connect with me on any of the social media platforms above!
