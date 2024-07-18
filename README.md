@@ -60,6 +60,7 @@ frameworks for vehicle infotainment systems. Capable in both team and solo setti
 
 ***Interviews***
 - [EPAM](https://github.com/Pomidorum1989/js-epam-task)
+- [NAYA](https://github.com/Pomidorum1989/java-naya-task)
 - [GM](https://github.com/Pomidorum1989/java-gm-task)
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
 
