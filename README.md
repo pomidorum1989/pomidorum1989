@@ -63,5 +63,6 @@ frameworks for vehicle infotainment systems. Capable in both team and solo setti
 - [NAYA](https://github.com/Pomidorum1989/java-naya-task)
 - [GM](https://github.com/Pomidorum1989/java-gm-task)
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
+- [FloQast](https://github.com/Pomidorum1989/js-interviews-tasks)
 
 Feel free to connect with me on any of the social media platforms above!
