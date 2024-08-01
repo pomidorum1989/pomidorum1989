@@ -51,6 +51,7 @@ frameworks for vehicle infotainment systems. Capable in both team and solo setti
 - [java-screenplay-selenium](https://github.com/Pomidorum1989/java-selenium-screenplay)
 - [java-cucumber-selenium](https://github.com/Pomidorum1989/java-selenium-cucumber)
 - [java-appium-local](https://github.com/pomidorum1989/java-appium-local)
+- [java-serenity](https://github.com/pomidorum1989/java-serenity)
 
 ***JavaScript***
 - [js-cypress](https://github.com/Pomidorum1989/js-cypress-qa-playground-test)
