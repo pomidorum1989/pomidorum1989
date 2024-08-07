@@ -73,7 +73,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="30" title="microsoft_azure_icon">
+        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="60" title="microsoft_azure_icon">
       </picture>
     </td>
     <td style="text-align: center;">
@@ -162,7 +162,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
-        <img height="30" src="images/light/appium_light.svg" alt="appium" width="30" title="appium_icon">
+        <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
       </picture>
     </td>
       <td style="text-align: center;">
@@ -176,28 +176,28 @@ objectives.
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
-          <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="30" title="selenium_icon">
+          <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="50" title="selenium_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
-          <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="30" title="cypress_icon">
+          <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-          <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="30" title="playwright_icon">
+          <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="50" title="playwright_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-          <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="30" title="spring_boot_icon">
+          <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="60" title="spring_boot_icon">
         </picture>
       </td>
 </table>
