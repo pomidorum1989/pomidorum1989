@@ -31,29 +31,31 @@ objectives.
     <th style="font-size: 10px;">Python</th>
     <th style="font-size: 10px;">JS</th>
   </tr>
-  <tr>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
-        <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
-        <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
-        <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30" title="javascript_icon">
-      </picture>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
+          <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
+          <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
+          <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30" title="javascript_icon">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <table style="text-align: center; margin: 0 auto;">
