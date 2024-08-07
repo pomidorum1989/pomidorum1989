@@ -7,6 +7,7 @@
 Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating
 robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps,
 and Jenkins.
+<br/>
 
 **Summary:**
 
