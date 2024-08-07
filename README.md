@@ -15,28 +15,28 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
-        <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon" style="display: block; margin: 0 auto">
+        <img height="30" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="30" title="facebook_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
-        <img height="20" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="22" title="linkedin_icon">
+        <img height="30" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="30" title="linkedin_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
-        <img height="20" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="22" title="instagram_icon">
+        <img height="30" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="30" title="instagram_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
-        <img height="20" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="22" title="twitter_icon">
+        <img height="30" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="30" title="twitter_icon">
       </picture>
     </a></td>
   </tr>
@@ -75,42 +75,42 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/java_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/java_light.svg">
-        <img height="20" src="images/java_light.svg" alt="java" width="20" title="java_icon">
+        <img height="30" src="images/java_light.svg" alt="java" width="30" title="java_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/python_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/python_light.svg">
-        <img height="20" src="images/python_light.svg" alt="python" width="20" title="python_icon">
+        <img height="30" src="images/python_light.svg" alt="python" width="30" title="python_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/javascript_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/javascript_light.svg">
-        <img height="20" src="images/javascript_light.svg" alt="javascript" width="20" title="javascript_icon">
+        <img height="30" src="images/javascript_light.svg" alt="javascript" width="30" title="javascript_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/git_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/git_light.svg">
-        <img height="20" src="images/git_light.svg" alt="git" width="20" title="git_icon">
+        <img height="30" src="images/git_light.svg" alt="git" width="30" title="git_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/microsoft_azure_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/microsoft_azure_light.svg">
-        <img height="20" src="images/microsoft_azure_light.svg" alt="microsoft_azure" width="20" title="microsoft_azure_icon">
+        <img height="30" src="images/microsoft_azure_light.svg" alt="microsoft_azure" width="30" title="microsoft_azure_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
-        <img height="20" src="images/jenkins_light.svg" alt="jenkins" width="20" title="jenkins_icon">
+        <img height="30" src="images/jenkins_light.svg" alt="jenkins" width="30" title="jenkins_icon">
       </picture>
     </td>
   </tr>
@@ -130,42 +130,42 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/github_actions_light.svg">
-        <img height="20" src="images/github_actions_light.svg" alt="github_actions" width="20" title="github_actions_icon">
+        <img height="30" src="images/github_actions_light.svg" alt="github_actions" width="30" title="github_actions_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
-        <img height="20" src="images/apache_maven_light.svg" alt="apache_maven" width="20" title="apache_maven_icon">
+        <img height="30" src="images/apache_maven_light.svg" alt="apache_maven" width="30" title="apache_maven_icon">
       </picture>
     </td>
     <td style="text-align: center; padding: 5px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/gradle_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/gradle_light.svg">
-        <img height="20" src="images/gradle_light.svg" alt="gradle" width="20" title="gradle_icon">
+        <img height="30" src="images/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/jira_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/jira_light.svg">
-        <img height="20" src="images/jira_light.svg" alt="jira" width="20" title="jira_icon">
+        <img height="30" src="images/jira_light.svg" alt="jira" width="30" title="jira_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
-        <img height="20" src="images/postman_light.svg" alt="postman" width="20" title="postman_icon">
+        <img height="30" src="images/postman_light.svg" alt="postman" width="30" title="postman_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
-        <img height="20" src="images/postgresql_light.svg" alt="postgresql" width="20" title="postgresql_icon">
+        <img height="30" src="images/postgresql_light.svg" alt="postgresql" width="30" title="postgresql_icon">
       </picture>
     </td>
   </tr>
