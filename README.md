@@ -73,14 +73,14 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="60" title="microsoft_azure_icon">
+        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80" title="microsoft_azure_icon">
       </picture>
     </td>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-        <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="80" title="github_actions_icon">
+        <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90" title="github_actions_icon">
       </picture>
     </td>
       <td style="text-align: center;">
@@ -176,7 +176,7 @@ objectives.
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
-          <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="50" title="selenium_icon">
+          <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
         </picture>
       </td>
       <td style="text-align: center;">
@@ -190,14 +190,14 @@ objectives.
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-          <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="50" title="playwright_icon">
+          <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-          <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="60" title="spring_boot_icon">
+          <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
         </picture>
       </td>
 </table>
