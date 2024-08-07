@@ -272,4 +272,4 @@ objectives.
 <br/>
 Feel free to connect with me on any of the social media platforms above!
 <br/>
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=Profile%20views&color=60598F&style=flat)
