@@ -53,104 +53,104 @@ objectives.
 
 <table style="text-align: center; margin: 0 auto;">
   <tr>
-    <td>
+    <td style="font-size: 10px;">Java</td>
+    <td style="font-size: 10px;">Python</td>
+    <td style="font-size: 10px;">JavaScript</td>
+    <td style="font-size: 10px;">Git</td>
+    <td style="font-size: 10px;">Azure</td>
+    <td style="font-size: 10px;">Jenkins</td>
+    <td style="font-size: 10px;">GitHub Actions</td>
+    <td style="font-size: 10px;">Maven</td>
+    <td style="font-size: 10px;">Gradle</td>
+    <td style="font-size: 10px;">Jira</td>
+    <td style="font-size: 10px;">Postman</td>
+    <td style="font-size: 10px;">PostgreSQL</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/java_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/java_light.svg">
         <img height="20" src="images/java_light.svg" alt="java" width="20" title="java_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/python_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/python_light.svg">
         <img height="20" src="images/python_light.svg" alt="python" width="20" title="python_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/javascript_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/javascript_light.svg">
         <img height="20" src="images/javascript_light.svg" alt="javascript" width="20" title="javascript_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/git_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/git_light.svg">
         <img height="20" src="images/git_light.svg" alt="git" width="20" title="git_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/microsoft_azure_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/microsoft_azure_light.svg">
         <img height="20" src="images/microsoft_azure_light.svg" alt="microsoft_azure" width="20" title="microsoft_azure_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
         <img height="20" src="images/jenkins_light.svg" alt="jenkins" width="20" title="jenkins_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/github_actions_light.svg">
         <img height="20" src="images/github_actions_light.svg" alt="github_actions" width="20" title="github_actions_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
         <img height="20" src="images/apache_maven_light.svg" alt="apache_maven" width="20" title="apache_maven_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/gradle_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/gradle_light.svg">
         <img height="20" src="images/gradle_light.svg" alt="gradle" width="20" title="gradle_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/jira_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/jira_light.svg">
         <img height="20" src="images/jira_light.svg" alt="jira" width="20" title="jira_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
         <img height="20" src="images/postman_light.svg" alt="postman" width="20" title="postman_icon">
       </picture>
     </td>
-    <td>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
         <img height="20" src="images/postgresql_light.svg" alt="postgresql" width="20" title="postgresql_icon">
       </picture>
     </td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>Python</td>
-    <td>JavaScript</td>
-    <td>Git</td>
-    <td>Azure</td>
-    <td>Jenkins</td>
-    <td>GitHub Actions</td>
-    <td>Maven</td>
-    <td>Gradle</td>
-    <td>Jira</td>
-    <td>Postman</td>
-    <td>PostgreSQL</td>
   </tr>
 </table>
 
