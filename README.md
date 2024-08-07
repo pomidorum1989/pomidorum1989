@@ -15,7 +15,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
-        <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon">
+        <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon" style="display: block; margin: 0 auto">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
