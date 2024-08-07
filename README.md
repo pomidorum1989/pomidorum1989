@@ -66,40 +66,38 @@ objectives.
     <th style="font-size: 10px;">GitHub Actions</th>
     <th style="font-size: 10px;">Docker</th>
   </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
-          <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-          <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
-            title="microsoft_azure_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-          <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
-            title="github_actions_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
-          <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
-        </picture>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
+        <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
+        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
+          title="microsoft_azure_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
+        <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
+          title="github_actions_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
+        <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
+      </picture>
+    </td>
+  </tr>
 </table>
 
 <table>
@@ -112,49 +110,51 @@ objectives.
     <th style="font-size: 10px;">Postman</th>
     <th style="font-size: 10px;">PostgreSQL</th>
   </tr>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
-      <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
-    </picture>
-  </td>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
-      <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
-        title="apache_maven_icon">
-    </picture>
-  </td>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
-      <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
-    </picture>
-  </td>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
-      <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
-    </picture>
-  </td>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
-      <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
-    </picture>
-  </td>
-  <td style="text-align: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
-      <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
-    </picture>
-  </td>
+  <tbody>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
+        <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
+        <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
+          title="apache_maven_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
+        <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
+        <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
+        <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
+      </picture>
+    </td>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
+        <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
+      </picture>
+    </td>
+  <tbody>
 </table>
 
 <table>
