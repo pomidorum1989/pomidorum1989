@@ -117,59 +117,62 @@ objectives.
 </table>
 
 <table style="text-align: center; margin: 0 auto;">
-  <tr>
- <td style="font-size: 10px;">
-    <td style="font-size: 10px;">Jenkins</td>
-    <td style="font-size: 10px;">Maven</td>
-    <td style="font-size: 10px;">Gradle</td>
-    <td style="font-size: 10px;">Jira</td>
-    <td style="font-size: 10px;">Postman</td>
-    <td style="font-size: 10px;">PostgreSQL</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
-        <img height="30" src="images/jenkins_light.svg" alt="jenkins" width="30" title="jenkins_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
-        <img height="30" src="images/apache_maven_light.svg" alt="apache_maven" width="30" title="apache_maven_icon">
-      </picture>
-    </td>
-    <td style="text-align: center; padding: 5px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/gradle_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/gradle_light.svg">
-        <img height="30" src="images/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/jira_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/jira_light.svg">
-        <img height="30" src="images/jira_light.svg" alt="jira" width="30" title="jira_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
-        <img height="30" src="images/postman_light.svg" alt="postman" width="30" title="postman_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
-        <img height="30" src="images/postgresql_light.svg" alt="postgresql" width="30" title="postgresql_icon">
-      </picture>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th style="font-size: 10px;">Jenkins</th>
+      <th style="font-size: 10px;">Maven</th>
+      <th style="font-size: 10px;">Gradle</th>
+      <th style="font-size: 10px;">Jira</th>
+      <th style="font-size: 10px;">Postman</th>
+      <th style="font-size: 10px;">PostgreSQL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
+          <img height="30" src="images/jenkins_light.svg" alt="jenkins" width="30" title="jenkins_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
+          <img height="30" src="images/apache_maven_light.svg" alt="apache_maven" width="30" title="apache_maven_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/gradle_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/gradle_light.svg">
+          <img height="30" src="images/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/jira_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/jira_light.svg">
+          <img height="30" src="images/jira_light.svg" alt="jira" width="30" title="jira_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
+          <img height="30" src="images/postman_light.svg" alt="postman" width="30" title="postman_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
+          <img height="30" src="images/postgresql_light.svg" alt="postgresql" width="30" title="postgresql_icon">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 **Basic automation frameworks:**
