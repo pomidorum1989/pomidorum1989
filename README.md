@@ -82,7 +82,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/python_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/python_light.svg">
-        <img height="30" src="images/python_light.svg" alt="python" width="30" title="python_icon">
+        <img height="30" src="images/python_light.svg" alt="python" width="40" title="python_icon">
       </picture>
     </td>
     <td style="text-align: center;">
