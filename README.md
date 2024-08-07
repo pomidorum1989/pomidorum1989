@@ -3,47 +3,6 @@
 ### Welcome to my github page:
 
 <br/>
-<table>
-  <tr>
-    <td>Facebook</td>
-    <td>LinkedIn</td>
-    <td>Instagram</td>
-    <td>Twitter</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><a href="https://facebook.com/pomidorum" title="Facebook">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
-        <img height="45" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60" title="facebook_icon">
-      </picture>
-    </a></td>
-    <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
-        <img height="45" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60" title="linkedin_icon">
-      </picture>
-    </a></td>
-    <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
-        <img height="45" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60" title="instagram_icon">
-      </picture>
-    </a></td>
-    <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
-        <img height="45" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60" title="twitter_icon">
-      </picture>
-    </a></td>
-  </tr>
-</table>
-<br/>
-<br/>
-
 Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating
 robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps,
 and Jenkins.
@@ -203,4 +162,44 @@ objectives.
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
 - [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
 
+<br/>
+<table>
+  <tr>
+    <td>Facebook</td>
+    <td>LinkedIn</td>
+    <td>Instagram</td>
+    <td>Twitter</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="https://facebook.com/pomidorum" title="Facebook">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
+        <img height="45" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60" title="facebook_icon">
+      </picture>
+    </a></td>
+    <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
+        <img height="45" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60" title="linkedin_icon">
+      </picture>
+    </a></td>
+    <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
+        <img height="45" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60" title="instagram_icon">
+      </picture>
+    </a></td>
+    <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
+        <img height="45" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60" title="twitter_icon">
+      </picture>
+    </a></td>
+  </tr>
+</table>
+<br/>
 Feel free to connect with me on any of the social media platforms above!
