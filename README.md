@@ -4,16 +4,32 @@
 
 <br/>
 <a href="https://facebook.com/pomidorum">
-  <img align="left" alt="Valentine Dorum | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
+  <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon">
+</picture>
 </a>
 <a href="https://www.linkedin.com/in/pomidorum/">
-  <img align="left" alt="Valentine Dorum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
+  <img height="20" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="22" title="linkedin_icon">
+</picture>
 </a>
 <a href="https://www.instagram.com/pomidorum/">
-  <img align="left" alt="Valentine Dorum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
+  <img height="20" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="22" title="instagram_icon">
+</picture>
 </a>
 <a href="https://twitter.com/pomidorum">
-  <img align="left" alt="Valentine Dorum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
+  <img height="20" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="22" title="twitter_icon">
+</picture>
 </a>
 <br/>
 <br/>
@@ -41,22 +57,73 @@ objectives.
   <source media="(prefers-color-scheme: light)" srcset="images/java_light.svg">
   <img height="20" src="images/java_light.svg" alt="java" width="20" title="java_icon">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/python_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/python_light.svg">
   <img height="20" src="images/python_light.svg" alt="python" width="20" title="python_icon">
 </picture>
 
-<code><img alt="javascript" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="javascript" width="20"/></code>
-<code><img alt="git" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" title="git" width="20"/></code>
-<code><img alt="azure" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" title="azure" width="20"/></code>
-<code><img alt="jenkins" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" title="jenkins" width="20"/></code>
-<code><img alt="github" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" title="github" width="20"/></code>
-<code><img alt="maven" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg" title="maven" width="20"/></code>
-<code><img alt="gradle" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" title="gradle" width="20"/></code>
-<code><img alt="jira" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" title="jira" width="20"/></code>
-<code><img alt="postman" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" title="postman" width="20"/></code>
-<code><img alt="sql" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" title="sql" width="20"/></code>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/javascript_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/javascript_light.svg">
+  <img height="20" src="images/javascript_light.svg" alt="javascript" width="20" title="javascript_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/git_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/git_light.svg">
+  <img height="20" src="images/git_light.svg" alt="git" width="20" title="git_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/microsoft_azure_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/microsoft_azure_light.svg">
+  <img height="20" src="images/microsoft_azure_light.svg" alt="microsoft_azure" width="20" title="microsoft_azure_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
+  <img height="20" src="images/jenkins_light.svg" alt="jenkins" width="20" title="jenkins_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/github_actions_light.svg">
+  <img height="20" src="images/github_actions_light.svg" alt="github_actions" width="20" title="github_actions_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
+  <img height="20" src="images/apache_maven_light.svg" alt="apache_maven" width="20" title="apache_maven_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/gradle_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/gradle_light.svg">
+  <img height="20" src="images/gradle_light.svg" alt="gradle" width="20" title="gradle_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/jira_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/jira_light.svg">
+  <img height="20" src="images/jira_light.svg" alt="jira" width="20" title="jira_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
+  <img height="20" src="images/postman_light.svg" alt="postman" width="20" title="postman_icon">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
+  <img height="20" src="images/postgresql_light.svg" alt="postgresql" width="20" title="postgresql_icon">
+</picture>
+
 
 **Basic automation frameworks:**
 
