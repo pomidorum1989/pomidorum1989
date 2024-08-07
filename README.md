@@ -3,34 +3,38 @@
 ### Welcome to my github page:
 
 <br/>
-<a href="https://facebook.com/pomidorum">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
-  <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon">
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/pomidorum/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
-  <img height="20" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="22" title="linkedin_icon">
-</picture>
-</a>
-<a href="https://www.instagram.com/pomidorum/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
-  <img height="20" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="22" title="instagram_icon">
-</picture>
-</a>
-<a href="https://twitter.com/pomidorum">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
-  <img height="20" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="22" title="twitter_icon">
-</picture>
-</a>
+<table>
+  <tr>
+    <td><a href="https://facebook.com/pomidorum" title="Facebook">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
+        <img height="20" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="22" title="facebook_icon">
+      </picture>
+    </a></td>
+    <td><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
+        <img height="20" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="22" title="linkedin_icon">
+      </picture>
+    </a></td>
+    <td><a href="https://www.instagram.com/pomidorum/" title="Instagram">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
+        <img height="20" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="22" title="instagram_icon">
+      </picture>
+    </a></td>
+    <td><a href="https://twitter.com/pomidorum" title="Twitter">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
+        <img height="20" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="22" title="twitter_icon">
+      </picture>
+    </a></td>
+  </tr>
+</table>
 <br/>
 <br/>
 
