@@ -154,7 +154,7 @@ objectives.
         <img height="20" src="images/jira_light.svg" alt="jira" width="20" title="jira_icon">
       </picture>
     </td>
-    <td style="text-align: center;">>
+    <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
