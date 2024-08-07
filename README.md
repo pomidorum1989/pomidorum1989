@@ -1,4 +1,4 @@
-![Header](images/qa-in-devops.png)
+![Header](images/dark/dark_header.gif)
 ![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
 
 ## Welcome to my github page <img src="images/hand.gif" width="20px">
