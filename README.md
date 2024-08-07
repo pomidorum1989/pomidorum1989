@@ -1,15 +1,13 @@
 ![Header](images/qa-in-devops.png)
 ![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
 
-### Welcome to my github page <img src="images/hand.gif" width="20px">
+## Welcome to my github page <img src="images/hand.gif" width="20px">
 
-<br/>
 Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating
 robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps,
 and Jenkins.
-<br/>
 
-**Summary:**
+### Summary👨🏻‍💻
 
 Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.
 Specializes in creating end-to-end automation scenarios and conducting Rest API testing.
@@ -273,4 +271,3 @@ objectives.
 </table>
 <br/>
 Feel free to connect with me on any of the social media platforms above!
-<br/>
