@@ -82,7 +82,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/python_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/python_light.svg">
-        <img height="30" src="images/python_light.svg" alt="python" width="30" title="python_icon">
+        <img height="30" src="images/python_light.svg" alt="python" width="60" title="python_icon">
       </picture>
     </td>
     <td style="text-align: center;">
@@ -110,7 +110,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/github_actions_light.svg">
-        <img height="30" src="images/github_actions_light.svg" alt="github_actions" width="60" title="github_actions_icon">
+        <img height="30" src="images/github_actions_light.svg" alt="github_actions" width="80" title="github_actions_icon">
       </picture>
     </td>
   </tr>
@@ -133,14 +133,14 @@ objectives.
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/jenkins_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/jenkins_light.svg">
-          <img height="30" src="images/jenkins_light.svg" alt="jenkins" width="30" title="jenkins_icon">
+          <img height="30" src="images/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/apache_maven_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/apache_maven_light.svg">
-          <img height="30" src="images/apache_maven_light.svg" alt="apache_maven" width="30" title="apache_maven_icon">
+          <img height="30" src="images/apache_maven_light.svg" alt="apache_maven" width="60" title="apache_maven_icon">
         </picture>
       </td>
       <td style="text-align: center;">
@@ -161,14 +161,14 @@ objectives.
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/postman_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/postman_light.svg">
-          <img height="30" src="images/postman_light.svg" alt="postman" width="30" title="postman_icon">
+          <img height="30" src="images/postman_light.svg" alt="postman" width="80" title="postman_icon">
         </picture>
       </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/postgresql_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/postgresql_light.svg">
-          <img height="30" src="images/postgresql_light.svg" alt="postgresql" width="30" title="postgresql_icon">
+          <img height="30" src="images/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
         </picture>
       </td>
     </tr>
