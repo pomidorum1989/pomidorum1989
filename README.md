@@ -1,4 +1,5 @@
 ![Header](images/qa-in-devops.png)
+![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
 
 ### Welcome to my github page <img src="images/hand.gif" width="20px">
 
@@ -272,4 +273,3 @@ objectives.
 <br/>
 Feel free to connect with me on any of the social media platforms above!
 <br/>
-![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=Profile%20views&color=60598F&style=flat)
