@@ -5,6 +5,12 @@
 <br/>
 <table>
   <tr>
+    <td>Facebook</td>
+    <td>LinkedIn</td>
+    <td>Instagram</td>
+    <td>Twitter</td>
+  </tr>
+  <tr>
     <td><a href="https://facebook.com/pomidorum" title="Facebook">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
