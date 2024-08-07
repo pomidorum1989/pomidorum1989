@@ -58,14 +58,12 @@ objectives.
 
 <table style="text-align: center; margin: 0 auto;">
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">CI/CD</caption>
-  <thead>
     <tr>
       <th style="font-size: 10px;">Jenkins</th>
       <th style="font-size: 10px;">Azure DevOps</th>
       <th style="font-size: 10px;">GitHub Actions</th>
       <th style="font-size: 10px;">Docker</th>
     </tr>
-  </thead>
   <tbody>
     <tr>
       <td style="text-align: center;">
