@@ -59,12 +59,6 @@ objectives.
     <td style="font-size: 10px;">Git</td>
     <td style="font-size: 10px;">Azure</td>
     <td style="font-size: 10px;">Jenkins</td>
-    <td style="font-size: 10px;">GitHub Actions</td>
-    <td style="font-size: 10px;">Maven</td>
-    <td style="font-size: 10px;">Gradle</td>
-    <td style="font-size: 10px;">Jira</td>
-    <td style="font-size: 10px;">Postman</td>
-    <td style="font-size: 10px;">PostgreSQL</td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -109,6 +103,19 @@ objectives.
         <img height="20" src="images/jenkins_light.svg" alt="jenkins" width="20" title="jenkins_icon">
       </picture>
     </td>
+  </tr>
+</table>
+
+<table style="text-align: center; margin: 0 auto;">
+  <tr>
+    <td style="font-size: 10px;">GitHub Actions</td>
+    <td style="font-size: 10px;">Maven</td>
+    <td style="font-size: 10px;">Gradle</td>
+    <td style="font-size: 10px;">Jira</td>
+    <td style="font-size: 10px;">Postman</td>
+    <td style="font-size: 10px;">PostgreSQL</td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
