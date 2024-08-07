@@ -1,4 +1,10 @@
-![Header](images/dark/dark_header.gif)
+<div id="header" align="center">
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="images/dark/header_dark.gif">
+     <source media="(prefers-color-scheme: light)" srcset="images/light/header_light.gif">
+     <img height="30" src="images/light/header_light.gif" alt="header" width="40" title="header_gif">
+  </picture>
+</div>
 ![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
 
 ## Welcome to my github page <img src="images/hand.gif" width="20px">
