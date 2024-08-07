@@ -66,11 +66,13 @@ objectives.
 - [java-spring-selenium](https://github.com/Pomidorum1989/java-spring-selenium)
 - [java-screenplay-selenium](https://github.com/Pomidorum1989/java-selenium-screenplay)
 - [java-cucumber-selenium](https://github.com/Pomidorum1989/java-selenium-cucumber)
+- [java-appium-local](https://github.com/pomidorum1989/java-appium-local)
+- [java-serenity](https://github.com/pomidorum1989/java-serenity)
 
 ***JavaScript***
 
 - [js-cypress](https://github.com/Pomidorum1989/js-cypress-qa-playground-test)
-- [js-webdriver-io](https://github.com/Pomidorum1989/js-webdriverio)
+- [js-selenium-jest](https://github.com/Pomidorum1989/js-selenium-jest)
 
 ***Python***
 
@@ -79,8 +81,9 @@ objectives.
 ***Interviews***
 
 - [EPAM](https://github.com/Pomidorum1989/js-epam-task)
+- [NAYA](https://github.com/Pomidorum1989/java-naya-task)
 - [GM](https://github.com/Pomidorum1989/java-gm-task)
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
-- [FLOQAST](https://github.com/Pomidorum1989/js-interview-tasks)
+- [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
 
 Feel free to connect with me on any of the social media platforms above!
