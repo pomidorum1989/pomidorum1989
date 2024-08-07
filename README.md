@@ -1,9 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
 <div id="header" align="center">
   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="images/dark/header_dark.gif">
-     <source media="(prefers-color-scheme: light)" srcset="images/light/header_light.gif">
-     <img height="300" src="images/light/header_light.gif" alt="header" width="1080" title="header_gif">
+    <source media="(prefers-color-scheme: dark)" srcset="images/dark/header_dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="images/light/header_light.gif">
+    <img height="300" src="images/light/header_light.gif" alt="header" width="1080" title="header_gif">
   </picture>
 </div>
 
@@ -27,9 +27,9 @@ objectives.
 <table style="text-align: center; margin: 0 auto;">
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Languages</caption>
   <tr>
-    <td style="font-size: 10px;">Java</td>
-    <td style="font-size: 10px;">Python</td>
-    <td style="font-size: 10px;">JS</td>
+    <th style="font-size: 10px;">Java</th>
+    <th style="font-size: 10px;">Python</th>
+    <th style="font-size: 10px;">JS</th>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -58,12 +58,12 @@ objectives.
 
 <table style="text-align: center; margin: 0 auto;">
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">CI/CD</caption>
-    <tr>
-      <th style="font-size: 10px;">Jenkins</th>
-      <th style="font-size: 10px;">Azure DevOps</th>
-      <th style="font-size: 10px;">GitHub Actions</th>
-      <th style="font-size: 10px;">Docker</th>
-    </tr>
+  <tr>
+    <th style="font-size: 10px;">Jenkins</th>
+    <th style="font-size: 10px;">Azure DevOps</th>
+    <th style="font-size: 10px;">GitHub Actions</th>
+    <th style="font-size: 10px;">Docker</th>
+  </tr>
   <tbody>
     <tr>
       <td style="text-align: center;">
@@ -73,20 +73,22 @@ objectives.
           <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
         </picture>
       </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80" title="microsoft_azure_icon">
-      </picture>
-    </td>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-        <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90" title="github_actions_icon">
-      </picture>
-    </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
+          <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
+            title="microsoft_azure_icon">
+        </picture>
+      </td>
+      <td style="text-align: center;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
+          <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
+            title="github_actions_icon">
+        </picture>
+      </td>
       <td style="text-align: center;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
@@ -100,110 +102,111 @@ objectives.
 
 <table>
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Tools</caption>
-<tr>
-      <th style="font-size: 10px;">Git</th>
-      <th style="font-size: 10px;">Maven</th>
-      <th style="font-size: 10px;">Gradle</th>
-      <th style="font-size: 10px;">Jira</th>
-      <th style="font-size: 10px;">Postman</th>
-      <th style="font-size: 10px;">PostgreSQL</th>
-</tr>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
-        <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
-      </picture>
-    </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
-          <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60" title="apache_maven_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
-          <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
-          <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
-          <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
-          <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
-        </picture>
-      </td>
+  <tr>
+    <th style="font-size: 10px;">Git</th>
+    <th style="font-size: 10px;">Maven</th>
+    <th style="font-size: 10px;">Gradle</th>
+    <th style="font-size: 10px;">Jira</th>
+    <th style="font-size: 10px;">Postman</th>
+    <th style="font-size: 10px;">PostgreSQL</th>
+  </tr>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
+      <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
+      <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
+        title="apache_maven_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
+      <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
+      <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
+      <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
+      <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
+    </picture>
+  </td>
 </table>
 
 <table>
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Automation</caption>
-<tr>
-      <th style="font-size: 10px;">Appium</th>
-      <th style="font-size: 10px;">Cucumber</th>
-      <th style="font-size: 10px;">Selenium</th>
-      <th style="font-size: 10px;">Cypress</th>
-      <th style="font-size: 10px;">Playwright</th>
-       <th style="font-size: 10px;">Spring Boot</th>
-</tr>
-    <td style="text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
-        <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
-      </picture>
-    </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
-          <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
-          <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
-          <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-          <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
-        </picture>
-      </td>
-      <td style="text-align: center;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-          <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
-        </picture>
-      </td>
+  <tr>
+    <th style="font-size: 10px;">Appium</th>
+    <th style="font-size: 10px;">Cucumber</th>
+    <th style="font-size: 10px;">Selenium</th>
+    <th style="font-size: 10px;">Cypress</th>
+    <th style="font-size: 10px;">Playwright</th>
+    <th style="font-size: 10px;">Spring Boot</th>
+  </tr>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
+      <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
+      <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
+      <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
+      <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
+      <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
+    </picture>
+  </td>
+  <td style="text-align: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
+      <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
+    </picture>
+  </td>
 </table>
 
 **Basic automation frameworks:**
@@ -234,7 +237,7 @@ objectives.
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
 - [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
 
-<br/>
+<br />
 <table>
   <tr>
     <td>Facebook</td>
@@ -244,34 +247,38 @@ objectives.
   </tr>
   <tr>
     <td style="text-align: center;"><a href="https://facebook.com/pomidorum" title="Facebook">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/facebook_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/facebook_light.svg">
-        <img height="45" src="images/light/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60" title="facebook_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/facebook_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/facebook_light.svg">
+          <img height="45" src="images/light/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60"
+            title="facebook_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/linkedin_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/linkedin_light.svg">
-        <img height="45" src="images/light/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60" title="linkedin_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/linkedin_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/linkedin_light.svg">
+          <img height="45" src="images/light/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60"
+            title="linkedin_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/instagram_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/instagram_light.svg">
-        <img height="45" src="images/light/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60" title="instagram_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/instagram_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/instagram_light.svg">
+          <img height="45" src="images/light/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60"
+            title="instagram_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/twitter_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/twitter_light.svg">
-        <img height="45" src="images/light/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60" title="twitter_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/twitter_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/twitter_light.svg">
+          <img height="45" src="images/light/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60"
+            title="twitter_icon">
+        </picture>
+      </a></td>
   </tr>
 </table>
-<br/>
+<br />
 Feel free to connect with me on any of the social media platforms above!
