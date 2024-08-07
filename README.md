@@ -15,28 +15,28 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/facebook_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/facebook_light.svg">
-        <img height="40" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="40" title="facebook_icon">
+        <img height="45" src="images/facebook_light.svg" alt="Valentine Dorum | Facebook" width="45" title="facebook_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/linkedin_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/linkedin_light.svg">
-        <img height="40" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="40" title="linkedin_icon">
+        <img height="45" src="images/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="45" title="linkedin_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/instagram_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/instagram_light.svg">
-        <img height="40" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="40" title="instagram_icon">
+        <img height="45" src="images/instagram_light.svg" alt="Valentine Dorum | Instagram" width="45" title="instagram_icon">
       </picture>
     </a></td>
     <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/twitter_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/twitter_light.svg">
-        <img height="40" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="40" title="twitter_icon">
+        <img height="45" src="images/twitter_light.svg" alt="Valentine Dorum | Twitter" width="45" title="twitter_icon">
       </picture>
     </a></td>
   </tr>
@@ -110,7 +110,7 @@ objectives.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/github_actions_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/github_actions_light.svg">
-        <img height="30" src="images/github_actions_light.svg" alt="github_actions" width="30" title="github_actions_icon">
+        <img height="30" src="images/github_actions_light.svg" alt="github_actions" width="60" title="github_actions_icon">
       </picture>
     </td>
   </tr>
