@@ -14,7 +14,7 @@
         </path>
     </defs>
     <g id="testing/cypress" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="container" transform="translate(2.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#0292E0"
+        <g id="container" transform="translate(2.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#708BE0"
            stroke-width="2">
             <rect id="mask" x="-1" y="-1" width="71" height="71" rx="14">
             </rect>
@@ -50,7 +50,7 @@
                 <g id="path-1">
                 </g>
                 <path d="M21.5,1.24061129 C32.6979167,1.24061129 41.7593887,10.3020833 41.7593887,21.5 C41.7593887,32.6979167 32.6979167,41.7593887 21.5,41.7593887 C10.3020833,41.7593887 1.24061129,32.6979167 1.24061129,21.5 C1.24061129,10.3020833 10.3020833,1.24061129 21.5,1.24061129 Z"
-                      id="Shape" fill="#0292E0" fill-rule="nonzero" mask="url(#mask-4)">
+                      id="Shape" fill="#708BE0" fill-rule="nonzero" mask="url(#mask-4)">
                 </path>
             </g>
             <g id="Clipped">
