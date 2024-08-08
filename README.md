@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/dark/header_dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="images/light/header_light.gif">
-    <img height="300" src="images/light/header_light.gif" alt="header" width="1080" title="header_gif">
+    <img height="250" src="images/light/header_light.gif" alt="header" width="1080" title="header_gif">
   </picture>
 </div>
 
