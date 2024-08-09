@@ -34,26 +34,28 @@ objectives.
   <tbody>
     <tr>
       <td style="text-align: center;"><a href="https://java.com/" title="java">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
-          <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
-        </picture>
-      </a></td>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
+            <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
+          </picture>
+        </a></td>
       <td style="text-align: center;"><a href="https://www.python.org/" title="python">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
-          <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
-        </picture>
-      </a></td>
-      <td style="text-align: center;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="javascript">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
-          <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30" title="javascript_icon">
-        </picture>
-      </a></td>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
+            <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
+          </picture>
+        </a></td>
+      <td style="text-align: center;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          title="javascript">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
+            <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30"
+              title="javascript_icon">
+          </picture>
+        </a></td>
     </tr>
   </tbody>
 </table>
@@ -68,39 +70,39 @@ objectives.
   </tr>
   <tr>
     <td style="text-align: center;"><a href="https://www.jenkins.io/" title="jenkins">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
-        <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
+          <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://azure.microsoft.com/" title="azure">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-        <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
-          title="microsoft_azure_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
+          <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
+            title="microsoft_azure_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://docs.github.com/" title="github actions">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-        <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
-          title="github_actions_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
+          <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
+            title="github_actions_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.docker.com/" title="docker">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
-        <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
+          <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
+        </picture>
+      </a></td>
   </tr>
 </table>
 
-<table>
+<table style="text-align: center; margin: 0 auto;">
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Tools</caption>
   <tr>
     <th style="font-size: 10px;">Git</th>
@@ -112,52 +114,52 @@ objectives.
   </tr>
   <tbody>
     <td style="text-align: center;"><a href="https://git-scm.com/" title="Git">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
-        <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
+          <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://maven.apache.org/" title="Maven">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
-        <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
-          title="apache_maven_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
+          <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
+            title="apache_maven_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://gradle.org/" title="Gradle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
-        <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
+          <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.atlassian.com/software/jira" title="Jira">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
-        <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
+          <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.postman.com/" title="Postman">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
-        <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
+          <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
+        </picture>
+      </a></td>
     <td style="text-align: center;"><a href="https://www.postgresql.org/" title="Postgresql">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
-        <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
-      </picture>
-    </a></td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
+          <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
+        </picture>
+      </a></td>
   <tbody>
 </table>
 
-<table>
+<table style="text-align: center; margin: 0 auto;">
   <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Automation</caption>
   <tr>
     <th style="font-size: 10px;">Appium</th>
@@ -168,47 +170,47 @@ objectives.
     <th style="font-size: 10px;">Spring Boot</th>
   </tr>
   <td style="text-align: center;"><a href="https://appium.io/" title="Appium">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
-      <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
+        <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
+      </picture>
+    </a></td>
   <td style="text-align: center;"><a href="https://cucumber.io/" title="Cucumber">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
-      <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
+        <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
+      </picture>
+    </a></td>
   <td style="text-align: center;"><a href="https://www.selenium.dev/" title="Selenium">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
-      <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
+        <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
+      </picture>
+    </a></td>
   <td style="text-align: center;"><a href="https://www.cypress.io/" title="Cypress">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
-      <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
+        <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
+      </picture>
+    </a></td>
   <td style="text-align: center;"><a href="https://playwright.dev/" title="Playwright">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-      <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
+        <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
+      </picture>
+    </a></td>
   <td style="text-align: center;"><a href="https://spring.io/projects/spring-boot" title="Spring Boot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-      <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
-    </picture>
-  </a></td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
+        <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
+      </picture>
+    </a></td>
 </table>
 
 **Basic automation frameworks:**
@@ -240,7 +242,7 @@ objectives.
 - [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
 
 <br />
-<table>
+<table style="text-align: center; margin: 0 auto;">
   <tr>
     <td>Facebook</td>
     <td>LinkedIn</td>
@@ -282,5 +284,4 @@ objectives.
       </a></td>
   </tr>
 </table>
-<br />
 Feel free to connect with me on any of the social media platforms above!
