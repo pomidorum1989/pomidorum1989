@@ -1,96 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VDorum CV</title>
     <style>
         .only-on-dark {
-            display: none;
+          display: none;
         }
 
         @media (prefers-color-scheme: dark) {
-            body {
-                background-color: #121212;
-                color: #e0e0e0;
-            }
+          body {
+            background-color: #121212;
+            color: #e0e0e0;
+          }
 
-            .content {
-                background-color: #1e1e1e;
-                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-            }
+          .content {
+            background-color: #1e1e1e;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+          }
 
-            .only-on-dark {
-                display: block;
-            }
+          .only-on-dark {
+            display: block;
+          }
 
-            .only-on-light {
-                display: none;
-            }
+          .only-on-light {
+            display: none;
+          }
         }
 
-                .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            margin: 0 auto;
-            width: 80%; /* Adjust width as needed */
+        .container {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+          margin: 0 auto;
+          width: 80%;
         }
 
         img {
-            max-width: 100%;
-            height: auto;
+          max-width: 100%;
+          height: auto;
         }
 
         .content {
-            margin-top: 20px;
+          margin-top: 20px;
         }
 
         .summary {
-            margin-top: 10px;
-            text-align: center;
+          margin-top: 10px;
+          text-align: center;
         }
 
         table {
-            margin: 0 auto; /* Centers the table */
-            width: auto; /* Ensures the table is not stretched */
-            border-collapse: collapse;
+          margin: 0 auto;
+          width: auto;
+          border-collapse: collapse;
         }
 
-        th, td {
-            padding: 10px;
-            text-align: center;
+        th,
+        td {
+          padding: 10px;
+          text-align: center;
         }
 
         caption {
-            font-weight: bold;
-            margin-bottom: 10px;
+          font-weight: bold;
+          margin-bottom: 10px;
         }
     </style>
 </head>
+
 <body>
 <div class="container">
-    <img class="only-on-dark" src="images/dark/header_dark.gif" alt="header_dark"/>
-    <img class="only-on-light" src="images/light/header_light.gif" alt="header_light"/>
+    <img class="only-on-dark" src="images/dark/header_dark.gif" alt="header_dark" />
+    <img class="only-on-light" src="images/light/header_light.gif" alt="header_light" />
     <div class="content">
         <h2>Welcome to my GitHub page
             <img src="images/hand.gif" width="40px" alt="hand_icon">
         </h2>
-        <p>Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in
-            creating robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub
-            Actions, Azure DevOps, and Jenkins.
-        </p>
+        <p>Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation.</p>
+        <p>I specialize in creating robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub
+            Actions, Azure DevOps, and Jenkins.</p>
 
         <h3>Summary 👨🏻‍💻</h3>
         <div class="summary">
-            <p>Automation engineer with over 6 years of experience in enterprise projects for prominent American
-                companies. Specializes in creating end-to-end automation scenarios and conducting Rest API testing.</p>
+            <p>Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.</p>
+            <p>Specializes in creating end-to-end automation scenarios and conducting Rest API testing.</p>
             <p>Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing,
                 and interviewing domains.</p>
             <p>For the past 3 years, served as an automation engineer in the automotive industry, focusing on the
-                development of automation frameworks for vehicle infotainment systems. Capable in both team and solo
-                settings, adeptly contributing to shared objectives.</p>
+                development of automation frameworks for vehicle infotainment systems.</p>
+            <p>Capable in both team and solo settings, adeptly contributing to shared objectives.</p>
         </div>
     </div>
 
@@ -107,22 +109,21 @@
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
-                    <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
+                    <img height="30" src="images/light/java_light.svg" alt="java" width="60" title="java_icon">
                 </picture>
             </a></td>
             <td><a href="https://www.python.org/" title="python">
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
-                    <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
+                    <img height="30" src="images/light/python_light.svg" alt="python" width="60" title="python_icon">
                 </picture>
             </a></td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-                   title="javascript">
+            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="javascript">
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
-                    <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30"
+                    <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="60"
                          title="javascript_icon">
                 </picture>
             </a></td>
@@ -150,7 +151,7 @@
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-                    <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
+                    <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="60"
                          title="microsoft_azure_icon">
                 </picture>
             </a></td>
@@ -158,7 +159,7 @@
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-                    <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
+                    <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="60"
                          title="github_actions_icon">
                 </picture>
             </a></td>
@@ -166,7 +167,7 @@
                 <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
                     <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
-                    <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
+                    <img height="30" src="images/light/docker_light.svg" alt="docker" width="60" title="docker_icon">
                 </picture>
             </a></td>
         </tr>
@@ -187,7 +188,7 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
-                <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
+                <img height="30" src="images/light/git_light.svg" alt="git" width="60" title="git_icon">
             </picture>
         </a></td>
         <td><a href="https://maven.apache.org/" title="Maven">
@@ -202,28 +203,28 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
-                <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+                <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="60" title="gradle_icon">
             </picture>
         </a></td>
         <td><a href="https://www.atlassian.com/software/jira" title="Jira">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
-                <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
+                <img height="30" src="images/light/jira_light.svg" alt="jira" width="60" title="jira_icon">
             </picture>
         </a></td>
         <td><a href="https://www.postman.com/" title="Postman">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
-                <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
+                <img height="30" src="images/light/postman_light.svg" alt="postman" width="60" title="postman_icon">
             </picture>
         </a></td>
         <td><a href="https://www.postgresql.org/" title="Postgresql">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
-                <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80"
+                <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="60"
                      title="postgresql_icon">
             </picture>
         </a></td>
@@ -244,7 +245,7 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
-                <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
+                <img height="30" src="images/light/appium_light.svg" alt="appium" width="60" title="appium_icon">
             </picture>
         </a></td>
         <td><a href="https://cucumber.io/" title="Cucumber">
@@ -265,28 +266,26 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
-                <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
+                <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="60" title="cypress_icon">
             </picture>
         </a></td>
         <td><a href="https://playwright.dev/" title="Playwright">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-                <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60"
-                     title="playwright_icon">
+                <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
             </picture>
         </a></td>
         <td><a href="https://spring.io/projects/spring-boot" title="Spring Boot">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-                <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70"
-                     title="spring_boot_icon">
+                <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="60" title="spring_boot_icon">
             </picture>
         </a></td>
     </table>
 
-    <div class="frameworks-section">
+    <div>
         <h3>Basic Automation Frameworks</h3>
 
         <h4>Java</h4>
@@ -318,7 +317,7 @@
             <li><a href="https://github.com/Pomidorum1989/js-interview-tasks">FloQast</a></li>
         </ul>
     </div>
-    <br/>
+    <br />
     <table>
         <tr>
             <td>Facebook</td>
@@ -363,4 +362,5 @@
     </table>
     Feel free to connect with me on any of the social media platforms above!
 </body>
+
 </html>
