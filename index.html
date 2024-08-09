@@ -1,287 +1,366 @@
-![Profile views](https://komarev.com/ghpvc/?username=pomidorum1989&label=views&color=51B896&style=flat)
-<div id="header" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/dark/header_dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="images/light/header_light.gif">
-    <img height="250" src="images/light/header_light.gif" alt="header" width="1080" title="header_gif">
-  </picture>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VDorum CV</title>
+    <style>
+        .only-on-dark {
+            display: none;
+        }
 
-## Welcome to my GitHub page <img src="images/hand.gif" width="20px">
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #121212;
+                color: #e0e0e0;
+            }
 
-Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating
-robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps,
-and Jenkins.
+            .content {
+                background-color: #1e1e1e;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            }
 
-### Summary👨🏻‍💻
+            .only-on-dark {
+                display: block;
+            }
 
-Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.
-Specializes in creating end-to-end automation scenarios and conducting Rest API testing.
-Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing, and interviewing
-domains.
-For the past 3 years, served as an automation engineer in the automotive industry, focusing on the development of
-automation
-frameworks for vehicle infotainment systems. Capable in both team and solo settings, adeptly contributing to shared
-objectives.
+            .only-on-light {
+                display: none;
+            }
+        }
 
-<table style="text-align: center; margin: 0 auto;">
-  <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Languages</caption>
-  <tr>
-    <th style="font-size: 10px;">Java</th>
-    <th style="font-size: 10px;">Python</th>
-    <th style="font-size: 10px;">JS</th>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: center;"><a href="https://java.com/" title="java">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
-            <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
-          </picture>
+                .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin: 0 auto;
+            width: 80%; /* Adjust width as needed */
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .content {
+            margin-top: 20px;
+        }
+
+        .summary {
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        table {
+            margin: 0 auto; /* Centers the table */
+            width: auto; /* Ensures the table is not stretched */
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        caption {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <img class="only-on-dark" src="images/dark/header_dark.gif" alt="header_dark"/>
+    <img class="only-on-light" src="images/light/header_light.gif" alt="header_light"/>
+    <div class="content">
+        <h2>Welcome to my GitHub page
+            <img src="images/hand.gif" width="40px" alt="hand_icon">
+        </h2>
+        <p>Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in
+            creating robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub
+            Actions, Azure DevOps, and Jenkins.
+        </p>
+
+        <h3>Summary 👨🏻‍💻</h3>
+        <div class="summary">
+            <p>Automation engineer with over 6 years of experience in enterprise projects for prominent American
+                companies. Specializes in creating end-to-end automation scenarios and conducting Rest API testing.</p>
+            <p>Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing,
+                and interviewing domains.</p>
+            <p>For the past 3 years, served as an automation engineer in the automotive industry, focusing on the
+                development of automation frameworks for vehicle infotainment systems. Capable in both team and solo
+                settings, adeptly contributing to shared objectives.</p>
+        </div>
+    </div>
+
+    <table>
+        <caption>Languages</caption>
+        <tr>
+            <th>Java</th>
+            <th>Python</th>
+            <th>JS</th>
+        </tr>
+        <tbody>
+        <tr>
+            <td><a href="https://java.com/" title="java">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/java_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/java_light.svg">
+                    <img height="30" src="images/light/java_light.svg" alt="java" width="30" title="java_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://www.python.org/" title="python">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
+                    <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                   title="javascript">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
+                    <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30"
+                         title="javascript_icon">
+                </picture>
+            </a></td>
+        </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <caption>CI/CD</caption>
+        <tr>
+            <th>Jenkins</th>
+            <th>Azure DevOps</th>
+            <th>GitHub Actions</th>
+            <th>Docker</th>
+        </tr>
+        <tr>
+            <td><a href="https://www.jenkins.io/" title="jenkins">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
+                    <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://azure.microsoft.com/" title="azure">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
+                    <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
+                         title="microsoft_azure_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://docs.github.com/" title="github actions">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
+                    <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
+                         title="github_actions_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://www.docker.com/" title="docker">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
+                    <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
+                </picture>
+            </a></td>
+        </tr>
+    </table>
+
+    <table>
+        <caption>Tools</caption>
+        <tr>
+            <th>Git</th>
+            <th>Maven</th>
+            <th>Gradle</th>
+            <th>Jira</th>
+            <th>Postman</th>
+            <th>PostgreSQL</th>
+        </tr>
+        <tbody>
+        <td><a href="https://git-scm.com/" title="Git">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
+                <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
+            </picture>
         </a></td>
-      <td style="text-align: center;"><a href="https://www.python.org/" title="python">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="images/dark/python_dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="images/light/python_light.svg">
-            <img height="30" src="images/light/python_light.svg" alt="python" width="40" title="python_icon">
-          </picture>
+        <td><a href="https://maven.apache.org/" title="Maven">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
+                <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
+                     title="apache_maven_icon">
+            </picture>
         </a></td>
-      <td style="text-align: center;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          title="javascript">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="images/dark/javascript_dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="images/light/javascript_light.svg">
-            <img height="30" src="images/light/javascript_light.svg" alt="javascript" width="30"
-              title="javascript_icon">
-          </picture>
+        <td><a href="https://gradle.org/" title="Gradle">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
+                <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
+            </picture>
         </a></td>
-    </tr>
-  </tbody>
-</table>
+        <td><a href="https://www.atlassian.com/software/jira" title="Jira">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
+                <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://www.postman.com/" title="Postman">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
+                <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://www.postgresql.org/" title="Postgresql">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
+                <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80"
+                     title="postgresql_icon">
+            </picture>
+        </a></td>
+        <tbody>
+    </table>
 
-<table style="text-align: center; margin: 0 auto;">
-  <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">CI/CD</caption>
-  <tr>
-    <th style="font-size: 10px;">Jenkins</th>
-    <th style="font-size: 10px;">Azure DevOps</th>
-    <th style="font-size: 10px;">GitHub Actions</th>
-    <th style="font-size: 10px;">Docker</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><a href="https://www.jenkins.io/" title="jenkins">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jenkins_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/jenkins_light.svg">
-          <img height="30" src="images/light/jenkins_light.svg" alt="jenkins" width="60" title="jenkins_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://azure.microsoft.com/" title="azure">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/microsoft_azure_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/microsoft_azure_light.svg">
-          <img height="30" src="images/light/microsoft_azure_light.svg" alt="microsoft_azure" width="80"
-            title="microsoft_azure_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://docs.github.com/" title="github actions">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/github_actions_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/github_actions_light.svg">
-          <img height="30" src="images/light/github_actions_light.svg" alt="github_actions" width="90"
-            title="github_actions_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.docker.com/" title="docker">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/docker_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/docker_light.svg">
-          <img height="30" src="images/light/docker_light.svg" alt="docker" width="80" title="docker_icon">
-        </picture>
-      </a></td>
-  </tr>
-</table>
+    <table>
+        <caption>Automation</caption>
+        <tr>
+            <th>Appium</th>
+            <th>Cucumber</th>
+            <th>Selenium</th>
+            <th>Cypress</th>
+            <th>Playwright</th>
+            <th>Spring Boot</th>
+        </tr>
+        <td><a href="https://appium.io/" title="Appium">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
+                <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://cucumber.io/" title="Cucumber">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
+                <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://www.selenium.dev/" title="Selenium">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
+                <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://www.cypress.io/" title="Cypress">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
+                <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://playwright.dev/" title="Playwright">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
+                <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60"
+                     title="playwright_icon">
+            </picture>
+        </a></td>
+        <td><a href="https://spring.io/projects/spring-boot" title="Spring Boot">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
+                <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70"
+                     title="spring_boot_icon">
+            </picture>
+        </a></td>
+    </table>
 
-<table style="text-align: center; margin: 0 auto;">
-  <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Tools</caption>
-  <tr>
-    <th style="font-size: 10px;">Git</th>
-    <th style="font-size: 10px;">Maven</th>
-    <th style="font-size: 10px;">Gradle</th>
-    <th style="font-size: 10px;">Jira</th>
-    <th style="font-size: 10px;">Postman</th>
-    <th style="font-size: 10px;">PostgreSQL</th>
-  </tr>
-  <tbody>
-    <td style="text-align: center;"><a href="https://git-scm.com/" title="Git">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/git_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/git_light.svg">
-          <img height="30" src="images/light/git_light.svg" alt="git" width="30" title="git_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://maven.apache.org/" title="Maven">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/apache_maven_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/apache_maven_light.svg">
-          <img height="30" src="images/light/apache_maven_light.svg" alt="apache_maven" width="60"
-            title="apache_maven_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://gradle.org/" title="Gradle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/gradle_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/gradle_light.svg">
-          <img height="30" src="images/light/gradle_light.svg" alt="gradle" width="30" title="gradle_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.atlassian.com/software/jira" title="Jira">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/jira_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/jira_light.svg">
-          <img height="30" src="images/light/jira_light.svg" alt="jira" width="30" title="jira_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.postman.com/" title="Postman">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postman_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/postman_light.svg">
-          <img height="30" src="images/light/postman_light.svg" alt="postman" width="80" title="postman_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.postgresql.org/" title="Postgresql">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/postgresql_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/postgresql_light.svg">
-          <img height="30" src="images/light/postgresql_light.svg" alt="postgresql" width="80" title="postgresql_icon">
-        </picture>
-      </a></td>
-  <tbody>
-</table>
+    <div class="frameworks-section">
+        <h3>Basic Automation Frameworks</h3>
 
-<table style="text-align: center; margin: 0 auto;">
-  <caption style="font-size: 12px; font-weight: bold; padding-bottom: 10px;">Automation</caption>
-  <tr>
-    <th style="font-size: 10px;">Appium</th>
-    <th style="font-size: 10px;">Cucumber</th>
-    <th style="font-size: 10px;">Selenium</th>
-    <th style="font-size: 10px;">Cypress</th>
-    <th style="font-size: 10px;">Playwright</th>
-    <th style="font-size: 10px;">Spring Boot</th>
-  </tr>
-  <td style="text-align: center;"><a href="https://appium.io/" title="Appium">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/appium_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/appium_light.svg">
-        <img height="30" src="images/light/appium_light.svg" alt="appium" width="50" title="appium_icon">
-      </picture>
-    </a></td>
-  <td style="text-align: center;"><a href="https://cucumber.io/" title="Cucumber">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/cucumber_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/cucumber_light.svg">
-        <img height="30" src="images/light/cucumber_light.svg" alt="cucumber" width="60" title="cucumber_icon">
-      </picture>
-    </a></td>
-  <td style="text-align: center;"><a href="https://www.selenium.dev/" title="Selenium">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/selenium_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/selenium_light.svg">
-        <img height="30" src="images/light/selenium_light.svg" alt="selenium" width="60" title="selenium_icon">
-      </picture>
-    </a></td>
-  <td style="text-align: center;"><a href="https://www.cypress.io/" title="Cypress">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/cypress_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/cypress_light.svg">
-        <img height="30" src="images/light/cypress_light.svg" alt="gradle" width="50" title="cypress_icon">
-      </picture>
-    </a></td>
-  <td style="text-align: center;"><a href="https://playwright.dev/" title="Playwright">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-        <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
-      </picture>
-    </a></td>
-  <td style="text-align: center;"><a href="https://spring.io/projects/spring-boot" title="Spring Boot">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-        <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="70" title="spring_boot_icon">
-      </picture>
-    </a></td>
-</table>
+        <h4>Java</h4>
+        <ul>
+            <li><a href="https://github.com/Pomidorum1989/java-playwright">java-playwright</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-spring-selenium">java-spring-selenium</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-selenium-screenplay">java-screenplay-selenium</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-selenium-cucumber">java-cucumber-selenium</a></li>
+            <li><a href="https://github.com/pomidorum1989/java-appium-local">java-appium-local</a></li>
+            <li><a href="https://github.com/pomidorum1989/java-serenity">java-serenity</a></li>
+        </ul>
 
-**Basic automation frameworks:**
+        <h4>JavaScript</h4>
+        <ul>
+            <li><a href="https://github.com/Pomidorum1989/js-cypress-qa-playground-test">js-cypress</a></li>
+            <li><a href="https://github.com/Pomidorum1989/js-selenium-jest">js-selenium-jest</a></li>
+        </ul>
 
-***Java***
-
-- [java-playwright](https://github.com/Pomidorum1989/java-playwright)
-- [java-spring-selenium](https://github.com/Pomidorum1989/java-spring-selenium)
-- [java-screenplay-selenium](https://github.com/Pomidorum1989/java-selenium-screenplay)
-- [java-cucumber-selenium](https://github.com/Pomidorum1989/java-selenium-cucumber)
-- [java-appium-local](https://github.com/pomidorum1989/java-appium-local)
-- [java-serenity](https://github.com/pomidorum1989/java-serenity)
-
-***JavaScript***
-
-- [js-cypress](https://github.com/Pomidorum1989/js-cypress-qa-playground-test)
-- [js-selenium-jest](https://github.com/Pomidorum1989/js-selenium-jest)
-
-***Python***
-
-- [python-pytest](https://github.com/Pomidorum1989/python-pytest-selenium)
-
-***Interviews***
-
-- [EPAM](https://github.com/Pomidorum1989/js-epam-task)
-- [NAYA](https://github.com/Pomidorum1989/java-naya-task)
-- [GM](https://github.com/Pomidorum1989/java-gm-task)
-- [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
-- [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
-
-<br />
-<table style="text-align: center; margin: 0 auto;">
-  <tr>
-    <td>Facebook</td>
-    <td>LinkedIn</td>
-    <td>Instagram</td>
-    <td>Twitter</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><a href="https://facebook.com/pomidorum" title="Facebook">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/facebook_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/facebook_light.svg">
-          <img height="45" src="images/light/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60"
-            title="facebook_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/linkedin_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/linkedin_light.svg">
-          <img height="45" src="images/light/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60"
-            title="linkedin_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://www.instagram.com/pomidorum/" title="Instagram">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/instagram_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/instagram_light.svg">
-          <img height="45" src="images/light/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60"
-            title="instagram_icon">
-        </picture>
-      </a></td>
-    <td style="text-align: center;"><a href="https://twitter.com/pomidorum" title="Twitter">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/dark/twitter_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="images/light/twitter_light.svg">
-          <img height="45" src="images/light/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60"
-            title="twitter_icon">
-        </picture>
-      </a></td>
-  </tr>
-</table>
-Feel free to connect with me on any of the social media platforms above!
+        <h4>Python</h4>
+        <ul>
+            <li><a href=“https://github.com/Pomidorum1989/python-pytest-selenium”>python-pytest</a></li>
+        </ul>
+        <h4>Interviews</h4>
+        <ul>
+            <li><a href="https://github.com/Pomidorum1989/js-epam-task">EPAM</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-naya-task">NAYA</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-gm-task">GM</a></li>
+            <li><a href="https://github.com/Pomidorum1989/java-amex-interview">AMEX</a></li>
+            <li><a href="https://github.com/Pomidorum1989/js-interview-tasks">FloQast</a></li>
+        </ul>
+    </div>
+    <br/>
+    <table>
+        <tr>
+            <td>Facebook</td>
+            <td>LinkedIn</td>
+            <td>Instagram</td>
+            <td>Twitter</td>
+        </tr>
+        <tr>
+            <td><a href="https://facebook.com/pomidorum" title="Facebook">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/facebook_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/facebook_light.svg">
+                    <img height="45" src="images/light/facebook_light.svg" alt="Valentine Dorum | Facebook" width="60"
+                         title="facebook_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/pomidorum/" title="LinkedIn">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/linkedin_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/linkedin_light.svg">
+                    <img height="45" src="images/light/linkedin_light.svg" alt="Valentine Dorum | LinkedIn" width="60"
+                         title="linkedin_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://www.instagram.com/pomidorum/" title="Instagram">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/instagram_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/instagram_light.svg">
+                    <img height="45" src="images/light/instagram_light.svg" alt="Valentine Dorum | Instagram" width="60"
+                         title="instagram_icon">
+                </picture>
+            </a></td>
+            <td><a href="https://twitter.com/pomidorum" title="Twitter">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="images/dark/twitter_dark.svg">
+                    <source media="(prefers-color-scheme: light)" srcset="images/light/twitter_light.svg">
+                    <img height="45" src="images/light/twitter_light.svg" alt="Valentine Dorum | Twitter" width="60"
+                         title="twitter_icon">
+                </picture>
+            </a></td>
+        </tr>
+    </table>
+    Feel free to connect with me on any of the social media platforms above!
+</body>
+</html>
