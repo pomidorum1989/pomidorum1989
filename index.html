@@ -6,87 +6,167 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VDorum CV</title>
     <style>
-        .only-on-dark {
-          display: none;
+        /* Global Styles */
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
         }
 
-        @media (prefers-color-scheme: dark) {
-          body {
-            background-color: #121212;
-            color: #e0e0e0;
-          }
+        h2, h3 {
+            color: #333;
+        }
 
-          .content {
-            background-color: #1e1e1e;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-          }
+        h2 {
+            font-size: 2.5rem;
+            margin-top: 20px;
+        }
 
-          .only-on-dark {
-            display: block;
-          }
+        h3 {
+            font-size: 1.75rem;
+            margin-top: 40px;
+        }
 
-          .only-on-light {
-            display: none;
-          }
+        p {
+            font-size: 1rem;
+            margin: 0.5rem 0;
         }
 
         .container {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          text-align: center;
-          margin: 0 auto;
-          width: 80%;
+            width: 100%;
+            max-width: 1080px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
         }
 
-        img {
-          max-width: 100%;
-          height: auto;
+        .content img {
+            max-width: 100%;
+            height: auto%;
+<!--            display: block;-->
+            margin: 0 auto;
+            border-radius: 8px;
         }
 
-        .content {
-          margin-top: 20px;
+        .summary p {
+            margin-bottom: 1rem;
         }
 
-        .summary {
-          margin-top: 10px;
-          text-align: center;
-        }
-
+        /* Table Styles */
         table {
-          margin: 0 auto;
-          width: auto;
-          border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+            font-size: 1rem;
         }
 
-        th,
-        td {
-          padding: 10px;
-          text-align: center;
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+
+        td a {
+            text-decoration: none;
+            color: #333;
+            display: flex;
+            align-items: center;
+        }
+
+        td a img {
+            margin-right: 10px;
         }
 
         caption {
-          font-weight: bold;
-          margin-bottom: 10px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .container {
+                width: 100%;
+                margin: 10px;
+                padding: 15px;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            h3 {
+                font-size: 1.5rem;
+            }
+
+            table {
+                font-size: 0.9rem;
+            }
+
+            th, td {
+                padding: 10px;
+            }
+        }
+
+        /* Dark Mode Styles */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #121212;
+                color: #e0e0e0;
+            }
+
+            .container {
+                background-color: #1e1e1e;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            }
+
+            h2, h3, p {
+                color: #e0e0e0;
+            }
+
+            th {
+                background-color: #333;
+            }
+
+            td a {
+                color: #e0e0e0;
+            }
+
+            .only-on-dark {
+                display: block;
+            }
+
+            .only-on-light {
+                display: none;
+            }
         }
     </style>
 </head>
 
 <body>
 <div class="container">
-    <img class="only-on-dark" src="images/dark/header_dark.gif" alt="header_dark" />
-    <img class="only-on-light" src="images/light/header_light.gif" alt="header_light" />
+    <img class="only-on-dark" src="images/dark/header_dark.gif" alt="header_dark"/>
+    <img class="only-on-light" src="images/light/header_light.gif" alt="header_light"/>
     <div class="content">
-        <h2>Welcome to my GitHub page
-            <img src="images/hand.gif" width="40px" alt="hand_icon">
-        </h2>
-        <p>Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation.</p>
-        <p>I specialize in creating robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub
-            Actions, Azure DevOps, and Jenkins.</p>
+        <h2>Welcome to my CV page <img src="images/hand.gif" width="40px" alt="hand_icon"> </h2>
+
+        <h3>Job Titles</h3>
+        <p>QA Automation Engineer | Software Engineer in Test | Test Automation Developer | Test Automation Engineer</p>
 
         <h3>Summary 👨🏻‍💻</h3>
         <div class="summary">
-            <p>Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.</p>
+            <p>Automation engineer with over 6 years of experience in enterprise projects for prominent American
+                companies.</p>
             <p>Specializes in creating end-to-end automation scenarios and conducting Rest API testing.</p>
             <p>Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing,
                 and interviewing domains.</p>
@@ -94,6 +174,64 @@
                 development of automation frameworks for vehicle infotainment systems.</p>
             <p>Capable in both team and solo settings, adeptly contributing to shared objectives.</p>
         </div>
+
+        <h3>Work Experience</h3>
+        <p>QA Automation engineer | General Motors | 04/2021 – 04/2024 | Herzliya, Israel</p>
+        <p>Projects:</p>
+        <p>Developed an automation framework for a hybrid mobile app (React Native, Node.js, PostgreSQL, WebView),
+            including coverage of infotainment projection for Android Auto and Apple CarPlay. App currently serves over
+            200,000 active users.</p>
+
+        <p>Responsibilities:</p>
+        <p>• Performed API testing utilizing REST-assured.</p>
+        <p>• Generated automation reports using Allure Report.</p>
+        <p>• Automated report generation using Azure TFS API.</p>
+        <p>• Wrote Groovy/YAML-based pipeline scenarios for CI/CD</p>
+        <p>• Designed E2E mobile test scenarios using Java 11+, and Appium.</p>
+        <p>• Set up CI/CD pipelines: Jenkins, Azure DevOps, GitHub Actions.</p>
+        <p>• Executed tests in the cloud-based farms Perfecto, and BrowserStack.</p>
+
+        <p>Achievements:</p>
+        <p>• Raised iOS platform coverage by 50% and Android by 20%.</p>
+        <p>• Automation framework development from scratch (POM, Screenplay pattern, UI, API)</p>
+        <p>• Implemented parallel suite execution, reducing test time from 12 to 3 hours.</p>
+        <p>• Enhanced smoke and regression suite execution saved 100 hours monthly in manual QA operations.</p>
+
+        <p>QA Automation engineer | EPAM Systems | 12/2017 – 04/2021 | Minsk, Belarus</p>
+        <p>Projects:</p>
+        <p>UI/API automation of EPAM Systems products: Intranet Portal, Staffing Desk, Referral Portal, Interview
+            Platform</p>
+        <p>Responsibilities:</p>
+        <p>• Performed contract API testing using REST assured.</p>
+        <p>• Created detailed bug reports using Jira + Confluence.</p>
+        <p>• Transformation of test cases to BDD scenarios using Gherkin.</p>
+        <p>• Developed E2E test scenarios utilizing Java, Selenium, and Selenide.</p>
+        <p>• Conducted demo sessions for stakeholders to demonstrate new product features.</p>
+        <p>• Configured CI/CD pipelines to run tests using Jenkins, Selenoid, Docker, and Selenium Grid.</p>
+        <p>• Took part in all Agile increments: demos, stand-ups, retrospectives, planning & backlog refinements.</p>
+        <p>• Developed and maintained test documentation: test plan, test case design, test execution, and
+            reporting.</p>
+        <p>Achievements:</p>
+        <p>• Boosted UI automation test coverage by 45%.</p>
+        <p>• Enhanced REST API automation coverage by 30%.</p>
+        <p>• Introduced AT team sprint time estimates, improving planning participation and sprint velocity
+            precision.</p>
+        <p>• Implemented screenshot testing for interview templates, removing human error factors from manual QA
+            processes.</p>
+
+        <h3>Soft skills</h3>
+        <p>• Adaptability: versatile across staffing, interviewing, and automotive projects, adept at meeting specific
+            requirements.</p>
+        <p>• Decision-making: led automation development for new EV vehicle initiatives, making decisive choices under
+            pressure.</p>
+        <p>• Conflict resolution: ensured project success by facilitating cross-functional team collaboration (BA, DEV,
+            DevOps) to resolve conflicts efficiently.</p>
+
+        <h3>Education:</h3>
+        <p>Belarusian National Technical University | Bachelor’s degree in civil engineering | 2008 – 2013 Minsk,
+            Belarus</p>
+        <p>Residency & work authorization:</p>
+        <p>USA (green card) | Poland (permanent resident) | Israel (citizen) | Belarus (citizen)</p>
     </div>
 
     <table>
@@ -273,51 +411,53 @@
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/playwright_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/playwright_light.svg">
-                <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60" title="playwright_icon">
+                <img height="30" src="images/light/playwright_light.svg" alt="gradle" width="60"
+                     title="playwright_icon">
             </picture>
         </a></td>
         <td><a href="https://spring.io/projects/spring-boot" title="Spring Boot">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="images/dark/spring-boot_dark.svg">
                 <source media="(prefers-color-scheme: light)" srcset="images/light/spring-boot_light.svg">
-                <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="60" title="spring_boot_icon">
+                <img height="30" src="images/light/spring-boot_light.svg" alt="gradle" width="60"
+                     title="spring_boot_icon">
             </picture>
         </a></td>
     </table>
 
-    <div>
-        <h3>Basic Automation Frameworks</h3>
+    <!--    <div>-->
+    <!--        <h3>Basic Automation Frameworks</h3>-->
 
-        <h4>Java</h4>
-        <ul>
-            <li><a href="https://github.com/Pomidorum1989/java-playwright">java-playwright</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-spring-selenium">java-spring-selenium</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-selenium-screenplay">java-screenplay-selenium</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-selenium-cucumber">java-cucumber-selenium</a></li>
-            <li><a href="https://github.com/pomidorum1989/java-appium-local">java-appium-local</a></li>
-            <li><a href="https://github.com/pomidorum1989/java-serenity">java-serenity</a></li>
-        </ul>
+    <!--        <h4>Java</h4>-->
+    <!--        <ul>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-playwright">java-playwright</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-spring-selenium">java-spring-selenium</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-selenium-screenplay">java-screenplay-selenium</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-selenium-cucumber">java-cucumber-selenium</a></li>-->
+    <!--            <li><a href="https://github.com/pomidorum1989/java-appium-local">java-appium-local</a></li>-->
+    <!--            <li><a href="https://github.com/pomidorum1989/java-serenity">java-serenity</a></li>-->
+    <!--        </ul>-->
 
-        <h4>JavaScript</h4>
-        <ul>
-            <li><a href="https://github.com/Pomidorum1989/js-cypress-qa-playground-test">js-cypress</a></li>
-            <li><a href="https://github.com/Pomidorum1989/js-selenium-jest">js-selenium-jest</a></li>
-        </ul>
+    <!--        <h4>JavaScript</h4>-->
+    <!--        <ul>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/js-cypress-qa-playground-test">js-cypress</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/js-selenium-jest">js-selenium-jest</a></li>-->
+    <!--        </ul>-->
 
-        <h4>Python</h4>
-        <ul>
-            <li><a href=“https://github.com/Pomidorum1989/python-pytest-selenium”>python-pytest</a></li>
-        </ul>
-        <h4>Interviews</h4>
-        <ul>
-            <li><a href="https://github.com/Pomidorum1989/js-epam-task">EPAM</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-naya-task">NAYA</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-gm-task">GM</a></li>
-            <li><a href="https://github.com/Pomidorum1989/java-amex-interview">AMEX</a></li>
-            <li><a href="https://github.com/Pomidorum1989/js-interview-tasks">FloQast</a></li>
-        </ul>
-    </div>
-    <br />
+    <!--        <h4>Python</h4>-->
+    <!--        <ul>-->
+    <!--            <li><a href=“https://github.com/Pomidorum1989/python-pytest-selenium”>python-pytest</a></li>-->
+    <!--        </ul>-->
+    <!--        <h4>Interviews</h4>-->
+    <!--        <ul>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/js-epam-task">EPAM</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-naya-task">NAYA</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-gm-task">GM</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/java-amex-interview">AMEX</a></li>-->
+    <!--            <li><a href="https://github.com/Pomidorum1989/js-interview-tasks">FloQast</a></li>-->
+    <!--        </ul>-->
+    <!--    </div>-->
+    <br/>
     <table>
         <tr>
             <td>Facebook</td>
