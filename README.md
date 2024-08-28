@@ -240,6 +240,7 @@ objectives.
 - [GM](https://github.com/Pomidorum1989/java-gm-task)
 - [AMEX](https://github.com/Pomidorum1989/java-amex-interview)
 - [FloQast](https://github.com/Pomidorum1989/js-interview-tasks)
+- [Caesars](https://github.com/Pomidorum1989/java-caesars)
 
 <br />
 <table style="text-align: center; margin: 0 auto;">
